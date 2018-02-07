@@ -1,0 +1,2 @@
+- src: https://github.com/SANBI-SA/ansible-galaxy-tools
+  name: galaxyprojectdotorg.galaxy-tools
